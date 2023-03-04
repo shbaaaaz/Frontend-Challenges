@@ -1,5 +1,5 @@
-# Frontend Challenge - React logo animation
+# Frontend Challenge - Toggle Button
 
-Demo link: [React logo animation](https://stately-lebkuchen-e9c6d1.netlify.app/)
+Demo link: [Toggle Button](https://inspiring-baklava-a088a2.netlify.app/)
 
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/52371453/222542396-07dd97e4-ba85-4a71-bfcc-b4cdc99249ee.png">
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/52371453/222900894-d5c32a66-91b6-4c53-ae3f-779d45e0f986.png">
