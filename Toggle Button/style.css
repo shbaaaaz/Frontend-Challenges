@@ -1,0 +1,48 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.toggle-switch {
+  border: 1px solid gray;
+  height: 60px;
+  width: 120px;
+  border-radius: 50px;
+  cursor: pointer;
+  position: relative;
+}
+
+#chk-toggle {
+  opacity: 0;
+}
+
+.slider-container {
+  height: 60px;
+  width: 120px;
+  background-color: gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+}
+
+.slider {
+  background-color: white;
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+#chk-toggle:checked + .slider-container .slider {
+  transform: translateX(60px);
+}
+
+#chk-toggle:checked + .slider-container {
+  background-color: rgb(25, 226, 25);
+}
