@@ -1,67 +1,76 @@
-# Data Structures and Algorithms for Frontend Development
+# Data Structures and Algorithms using JavaScript for Frontend Development
 
-This repository is created and maintained by [Shahbaz Khan](https://www.shahbazkhan.in) for education purpose.
-Its a collection of topic wise DSA problems  along with theirs answers to get started with Data Structure and Algorithms in JavaScript.
+Its a collection of topic wise DSA problems along with theirs answers to get started with Data Structure and Algorithms in JavaScript.
 
-## Problem Solving and Algorithms
-### Frequency Counter
-    - Anagram
-    - Same Frequency Check
-    - Duplicate Check
-    - Unique values
-    - Square Value Check
-### Multiple Pointers
-    - Pair Sum
-    - Unique Values
-    - Duplicate Check
-    - Average Pair
-    - Subsequence Check
-### Sliding Window
-    - Maximum Sub Array Sum
-    - Minnimum Sub Array Sum
-    - Minnimum Sub Array length
-    - Longest Subsring
-### Divide and Conquer
-    - Search Number in Array 
-### Recursion
-    - Countdown
-    - Sum Range
-    - Factorial
-    - Odd Values in Array
-    - Power
-    - Product of Array
-    - Recursive Range
-    - Fibonacci
-    - Reverse
-    - Palindrome
-    - Array Some
-    - Array Flat
-    - Caplitalize First Letter of the Strings in an Array
-    - Nested Even Number Sum
-    - Capitalize Strings in an Array
-    - Stringify Numbers
-    - Collect Strings
-### Searching
-    - Linear Search
-        - indexOf
-        - includes
-        - find
-        - findIndex
-    - Binary Search
-        - Sorted array search
-    - Naive String Search
-        - Substring Count
-### Sorting
-    - Bubble Sort
-    - Selection Sort
-    - Insertion Sort
+## Folder Structure
 
-### Miscellaneous
-    - Binary Agents
-    - Smallest Common Multiple
-    - Roman Converter
-    - Ceasers Cipher
-    - Telephone Number Validator
-    - Cash Counter
+```
+📦DSA-JS
+┣ 📂1-Frequency Counter
+┃ ┣ 📜anagram.js
+┃ ┣ 📜duplicateCheck.js
+┃ ┣ 📜sameFrequency.js
+┃ ┣ 📜squaredValue.js
+┃ ┗ 📜uniqueValue.js
+┣ 📂2-Multiple Pointers
+┃ ┣ 📜averagePair.js
+┃ ┣ 📜duplicateCheck.js
+┃ ┣ 📜isSubsequence.js
+┃ ┣ 📜pairSum.js
+┃ ┗ 📜uniqueValue.js
+┣ 📂3-Sliding Window
+┃ ┣ 📜longestSubstring.js
+┃ ┣ 📜maxSubArraySum.js
+┃ ┣ 📜minSubArrayLength.js
+┃ ┗ 📜minSubArraySum.js
+┣ 📂4-Divide and Conquer
+┃ ┗ 📜searchNumInArray.js
+┣ 📂5-Recursion
+┃ ┣ 📜capitalizeFirst.js
+┃ ┣ 📜capitalizeWord.js
+┃ ┣ 📜collectStrings.js
+┃ ┣ 📜countDown.js
+┃ ┣ 📜factorial.js
+┃ ┣ 📜fibonacci.js
+┃ ┣ 📜flatten.js
+┃ ┣ 📜isPalindrome.js
+┃ ┣ 📜nestedEvenSum.js
+┃ ┣ 📜oddValuesInArray.js
+┃ ┣ 📜power.js
+┃ ┣ 📜productOfArray.js
+┃ ┣ 📜recursiveRange.js
+┃ ┣ 📜reverse.js
+┃ ┣ 📜someRecursive.js
+┃ ┣ 📜stringifyNumbers.js
+┃ ┗ 📜sumRange.js
+┣ 📂6-Searching
+┃ ┣ 📂Binary Search
+┃ ┃ ┗ 📜search.js
+┃ ┣ 📂Linear Search
+┃ ┃ ┣ 📜find.js
+┃ ┃ ┣ 📜findIndex.js
+┃ ┃ ┣ 📜includes.js
+┃ ┃ ┗ 📜indexOf.js
+┃ ┗ 📂Naive String Search
+┃ ┃ ┗ 📜naiveString.js
+┣ 📂7-Sorting
+┃ ┣ 📂BubbleSort
+┃ ┃ ┗ 📜bubbleSort.js
+┃ ┣ 📂InsertionSort
+┃ ┃ ┗ 📜insertionSort.js
+┃ ┗ 📂SelectionSort
+┃ ┃ ┗ 📜selectionSort.js
+┣ 📂Miscellaneous
+┃ ┣ 📜binaryAgents.js
+┃ ┣ 📜cashCounter.js
+┃ ┣ 📜ceaserCipher.js
+┃ ┣ 📜romanConverter.js
+┃ ┣ 📜smallestCommonMultiple.js
+┃ ┗ 📜telephoneNumValidator.js
+┗ 📜README.md
+
+```
+
 ## Support:
+
 <p><a href="https://www.buymeacoffee.com/shahbazkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahbazkhan" /></a></p><br><br>

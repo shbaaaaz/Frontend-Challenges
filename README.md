@@ -30,25 +30,27 @@ The repository is structured into various folders to organize different types of
 Frontend-Challenges
 |---Data Structure & Algorithms
 |   |---DSA-JS
-|   |   |---1-frequencyCounter
-|   |   |---2-multiplePointers
-|   |   |---3-slidingWindow
-|   |   |---4-divideAndConquer
-|   |   |---5-recursion
-|   |   |---6-searching
-|   |   |   |---binarySearch
-|   |   |   |---linearSearch
-|   |   |   |---naiveStringSearch
-|   |   |---7-sorting
-|   |   |   |---bubbleSort
-|   |   |   |---insertionSort
-|   |   |   |---selectionSort
-|   |   |---miscellaneous
+|   |   |---1-Frequency Counter
+|   |   |---2-Multiple Pointers
+|   |   |---3-Sliding Window
+|   |   |---4-Divide and Conquer
+|   |   |---5-Recursion
+|   |   |---6-Searching
+|   |   |   |---Binary Search
+|   |   |   |---Linear Search
+|   |   |   |---Naive String Search
+|   |   |---7-Sorting
+|   |   |   |---BubbleSort
+|   |   |   |---InsertionSort
+|   |   |   |---SelectionSort
+|   |   |---Miscellaneous
+|   |
 |   |---Leetcode
 |       |---Daily Challenges
-|       |   |---easy
-|       |   |---hard
-|       |   |---medium
+|       |   |---Easy
+|       |   |---Hard
+|       |   |---Medium
+|       |
 |       |---Data Structure
 |       |   |---Day 1
 |       |   |---Day 2
@@ -56,20 +58,24 @@ Frontend-Challenges
 |       |   |---Day 4
 |       |   |---Day 5
 |       |   |---Day 6
+|       |
 |       |---Leetcode Beginners Guide
+|       |
 |       |---Programming_Skill_I
 |           |---Day 1
 |           |---Day 2
 |           |---Day 3
 |           |---Day 4
 |           |---Day 5
+|
 |---Polyfills
+|
 |---UI Challenges
-    |---1-Center image
-    |---2-Card with avatar and badge
+    |---1-Center Image
+    |---2-Card With Avatar and Badge
     |---3-Toggle Button
-    |---4-Pig emoji
-    |---5-React logo animation
+    |---4-Pig Emoji
+    |---5-React Logo Animation
 ```
 
 ## Usage
