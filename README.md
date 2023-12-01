@@ -26,8 +26,6 @@ The repository is structured into various folders to organize different types of
 
 ## Folder Structure
 
-\```
-
 📁 Frontend-Challenges/
 |
 |-- 📁 Data Structure & Algorithms/
@@ -49,8 +47,6 @@ The repository is structured into various folders to organize different types of
 |-- 📁 Polyfills
 |
 |-- 📁 UI Challenges
-
-\```
 
 ## Usage
 
