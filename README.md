@@ -86,6 +86,10 @@ Feel free to explore the folders and challenges in this repository. Each folder 
 
 I often refer to several resources while working on these challenges. Here are a few that might be helpful:
 
+- [https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [https://leetcode.com/](https://leetcode.com/)
+- [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
 ## Contact
 
 Feel free to connect with me on LinkedIn ([Shahbaz Khan](https://www.linkedin.com/in/shbaaaaz)) for discussions, collaborations, or any queries regarding this repository.
