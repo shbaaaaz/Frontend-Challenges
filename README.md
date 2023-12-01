@@ -27,48 +27,49 @@ The repository is structured into various folders to organize different types of
 ## Folder Structure
 
 ```
-+---Data Structure & Algorithms
-ª   +---DSA-JS
-ª   ª   +---1-frequencyCounter
-ª   ª   +---2-multiplePointers
-ª   ª   +---3-slidingWindow
-ª   ª   +---4-divideAndConquer
-ª   ª   +---5-recursion
-ª   ª   +---6-searching
-ª   ª   ª   +---binarySearch
-ª   ª   ª   +---linearSearch
-ª   ª   ª   +---naiveStringSearch
-ª   ª   +---7-sorting
-ª   ª   ª   +---bubbleSort
-ª   ª   ª   +---insertionSort
-ª   ª   ª   +---selectionSort
-ª   ª   +---miscellaneous
-ª   +---Leetcode
-ª       +---Daily Challenges
-ª       ª   +---easy
-ª       ª   +---hard
-ª       ª   +---medium
-ª       +---Data Structure
-ª       ª   +---Day 1
-ª       ª   +---Day 2
-ª       ª   +---Day 3
-ª       ª   +---Day 4
-ª       ª   +---Day 5
-ª       ª   +---Day 6
-ª       +---Leetcode Beginners Guide
-ª       +---Programming_Skill_I
-ª           +---Day 1
-ª           +---Day 2
-ª           +---Day 3
-ª           +---Day 4
-ª           +---Day 5
-+---Polyfills
-+---UI Challenges
-    +---1-Center image
-    +---2-Card with avatar and badge
-    +---3-Toggle Button
-    +---4-Pig emoji
-    +---5-React logo animation
+Frontend-Challenges
+|---Data Structure & Algorithms
+|   |---DSA-JS
+|   |   |---1-frequencyCounter
+|   |   |---2-multiplePointers
+|   |   |---3-slidingWindow
+|   |   |---4-divideAndConquer
+|   |   |---5-recursion
+|   |   |---6-searching
+|   |   |   |---binarySearch
+|   |   |   |---linearSearch
+|   |   |   |---naiveStringSearch
+|   |   |---7-sorting
+|   |   |   |---bubbleSort
+|   |   |   |---insertionSort
+|   |   |   |---selectionSort
+|   |   |---miscellaneous
+|   |---Leetcode
+|       |---Daily Challenges
+|       |   |---easy
+|       |   |---hard
+|       |   |---medium
+|       |---Data Structure
+|       |   |---Day 1
+|       |   |---Day 2
+|       |   |---Day 3
+|       |   |---Day 4
+|       |   |---Day 5
+|       |   |---Day 6
+|       |---Leetcode Beginners Guide
+|       |---Programming_Skill_I
+|           |---Day 1
+|           |---Day 2
+|           |---Day 3
+|           |---Day 4
+|           |---Day 5
+|---Polyfills
+|---UI Challenges
+    |---1-Center image
+    |---2-Card with avatar and badge
+    |---3-Toggle Button
+    |---4-Pig emoji
+    |---5-React logo animation
 ```
 
 ## Usage
