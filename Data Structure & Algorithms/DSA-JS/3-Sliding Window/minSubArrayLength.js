@@ -17,22 +17,22 @@ Sample Inputs:
 */
 
 const minSubArrayLen = (arr, num) => {
-    let total = 0;
-    let start = 0;
-    let end = 0;
-    let minLength = Infinity;
+  let total = 0
+  let start = 0
+  let end = 0
+  let minLength = Infinity
 
-    while (start < arr.length) {
-        if (total < num && end < arr.length) {
-            total = total + arr[end];
-            end++;
-        } else if (total >= num) {
-            minLength = Math.min(Infinity, end - start);
-            total = total - arr[start];
-            start++;
-        } else {
-            break;
-        }
+  while (start < arr.length) {
+    if (total < num && end < arr.length) {
+      total = total + arr[end]
+      end++
+    } else if (total >= num) {
+      minLength = Math.min(minLength, end - start)
+      total = total - arr[start]
+      start++
+    } else {
+      break
     }
-    return minLength === Infinity ? 0 : minLength;
+  }
+  return minLength === Infinity ? 0 : minLength
 }
