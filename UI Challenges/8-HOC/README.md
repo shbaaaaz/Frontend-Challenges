@@ -11,3 +11,9 @@ In this challenge we have used `forwardRef` HOC.
 ```bash
 npm install
 ```
+
+## Use below command to run the application
+
+```bash
+npm start
+```
